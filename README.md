@@ -1,1 +1,3 @@
 # Store_Data_Analysis_and_Visualization
+The Online Store Sales Data Analysis project focuses on analyzing sales data from an online store that connects with platforms like Amazon and Flipkart. The project aims to gain valuable insights into the sales performance of different platforms and uncover key factors that influence customer orders and overall success.
+Using the power of Excel's data analysis capabilities, this project uncovers patterns, trends, and relationships within the sales data. The analysis sheds light on the online platform that generates the highest number of orders for the store, identifies product categories with substantial sales contribution
